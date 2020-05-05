@@ -21,7 +21,7 @@
                             strategic success that enable innovation and increase profitability<br />
                             <br />
                         </span></span><span class="HTML_TXT"></span><span class="HTML_TXT" style="text-align: justify">
-                            The TeemBinSys Application Services addresses the demands of the insurance industry
+                            The Teembinsys Application Services addresses the demands of the insurance industry
                             through access to specialized skills and technology that can help integrate data
                             sources, reduce costs, improve customer service, increase competitiveness and better
                             manage risk.</span><br />
@@ -43,7 +43,7 @@
                         </asp:BulletedList>
                         <br />
                         <asp:HyperLink ID="HyperLink1" runat="server" Font-Underline="False" ForeColor="#BF2A14"
-                            Height="27px" NavigateUrl="~/Products.aspx" Width="244px" ToolTip="Go Back To Product Side">Back To Product......</asp:HyperLink></div>
+                            Height="27px" NavigateUrl="~/Products.aspx" Width="244px" ToolTip="Go Back To Product">Back To Product......</asp:HyperLink></div>
                 </td>
             </tr>
             <tr>
@@ -83,7 +83,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label2" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label2" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>

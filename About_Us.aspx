@@ -8,13 +8,13 @@
                     </div>
                     <div style="width: 495px; height: 171px">
                         <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="X-Large" Height="24px"
-                            Text="ABOUT US" Width="146px" Font-Names="Arial" ForeColor="#BF2A14"></asp:Label><br />
+                            Text="About Us" Width="146px" Font-Names="Arial" ForeColor="#BF2A14"></asp:Label><br />
                         <br />
                         <span style="font-size: 11pt; line-height: 20px; font-family: Palatino Linotype;
-                            text-align: justify">TeemBinSys System has set the agenda for the industry with 'on demand business' - a kind
+                            text-align: justify">Teembinsys Systems has set the agenda for the industry with 'on demand business' - a kind
                                 of transformation where an organization changes the way it operates and reduces
                                 costs, serving customers better, reducing risks and improving speed and agility
-                                in the marketplace. TeemBinSys System is already working with customers to
+                                in the marketplace. Teembinsys Systems is already working with customers to
                                 transform them into 'on demand' business. </span>
                     </div>
                     <br />
@@ -73,8 +73,8 @@
                                         Offers end-to-end solutions to customers from hardware to software, services and
                                         consulting. Our goal is to exceed the expectations of every client by offering outstanding
                                         customer service, increased flexibility, and greater value, thus optimizing system
-                                        functionality and improving operation efficiency.&nbsp; TeemBinSys System is one
-                                        of the information technology services and consulting provider. TeemBinSys&nbsp; Systems &nbsp;provides the entire spectrum of customer's e-business needs -- from the business
+                                        functionality and improving operation efficiency.&nbsp; Teembinsys Systems is one
+                                        of the information technology services and consulting provider. Teembinsys&nbsp; Systems &nbsp;provides the entire spectrum of customer's e-business needs -- from the business
                                         transformation and industry expertise of hosting, infrastructure, technology design
                                         and training services.</span></div>
                                 </td>
@@ -126,7 +126,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 534px; height: 21px">
-                    <asp:Label ID="Label3" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label3" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems"
                         Width="495px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>

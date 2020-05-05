@@ -16,21 +16,21 @@
                                         For more information or queries about our products &amp; services,<br />
                                         please contact us at the following address.
                                         <br />
-                                        Phone: (080) 4110 7686<br />
-                                        Fax: (080) 4110 7686<br />
-                                        Email:</span><a href="mailto:info@prudentel.com"><span style="font-size: 11pt; font-family: Palatino Linotype;"> info@prudentel.com</span></a><br />
+                                        Phone: +91-9611783570 <br />
+                                        Email:</span><a href="mailto:info@teembinsys.com"><span style="font-size: 11pt; font-family: Palatino Linotype;"> info@teembinsys.com</span></a><br />
                                 <span style="font-size: 11pt; font-family: Palatino Linotype;">
-                                Support:</span><a href="mailto:support@prudentel.com"><span
-                                    style="font-size: 11pt; font-family: Palatino Linotype;"> support@prudentel.com</span></a><br />
+                                Support:</span><a href="mailto:support@teembinsys.com"><span
+                                    style="font-size: 11pt; font-family: Palatino Linotype;"> support@teembinsys.com</span></a><br />
                                 <span style="font-size: 11pt; font-family: Palatino Linotype;">
-                                Website: </span><a href="http://www.prudentel.com/" target="_blank"><span style="font-size: 11pt; font-family: Palatino Linotype;">www.prudentel.com</span></a><span style="font-size: 18pt"></span></div>
+                                Website: </span><a href="http://www.teembinsys.com/" target="_blank"><span style="font-size: 11pt; font-family: Palatino Linotype;">www.teembinsys.com</span></a><span style="font-size: 18pt"></span></div>
                                     <br />
                     <div style="width: 445px; height: 82px">
                         <span style="font-size: 11pt; font-family: Palatino Linotype">
-                        TeemBinSys System Pvt Ltd<br />
-                        #1/1A, Arikere Main Road, Arikere,<br />
+                        Telecommunication and Embedded Information Systems<br />
+                        #154D, #155D, 3rd Main, Shanthiniketan Layout,<br />
+			Vysya Bank Colony, Arikere,<br />
                         Bannerghatta Road, Bangalore - 560076.<br />
-                        Karnataka, INDIA</span></div>
+                        Karnataka, India</span></div>
                                 </td>
                                 <td rowspan="3" style="width: 42px; height: 342px;">
                                     <div style="width: 448px; height: 211px">
@@ -78,7 +78,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label2" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label2" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems"
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>
@@ -90,4 +90,3 @@
         </table>
     </div>
 </asp:Content>
-

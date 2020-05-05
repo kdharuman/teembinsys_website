@@ -29,7 +29,7 @@
                                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                                     <img dir="rtl" src="strength.JPG" style="width: 132px; height: 62px" /><br />
                                     <span style="font-size: 11pt; font-family: Palatino Linotype; line-height: 20px;">
-                                    TeemBinSys Systems is an expanding modern company, who value their staff and clients, and strive to develop long term mutually beneficial relationships. The Company structure comprises skill related teams each focusing on their respective areas of expertise. </span>
+                                    Teembinsys Systems is an expanding modern company, who value their staff and clients, and strive to develop long term mutually beneficial relationships. The Company structure comprises skill related teams each focusing on their respective areas of expertise. </span>
                                 </div>
                                 <hr style="height: 1px;" />
                             </td>
@@ -54,10 +54,10 @@
                         <tr>
                             <td colspan="3" style="width: 518px; height: 508px">
                                 <div style="width: 474px; height: 470px; text-align: justify;">
-                                    <asp:HyperLink ID="HyperLink2" runat="server" Font-Bold="True" Font-Size="XX-Large" Font-Names="Arial" ForeColor="#BF2A14" Height="36px" Width="477px">Welcome To TeemBinSys...</asp:HyperLink><br /><p>
+                                    <asp:HyperLink ID="HyperLink2" runat="server" Font-Bold="True" Font-Size="XX-Large" Font-Names="Arial" ForeColor="#BF2A14" Height="36px" Width="477px"></asp:HyperLink><br /><p>
                                         <span><span style="font-size: 11pt; line-height: 20px;"><span style="font-family: Palatino Linotype">
                                             <strong style="text-align: justify">
-                                    TeemBinSys Systems</strong> was established in India since 2009. TeemBinSys Systems in India has expanded its operations considerably with regional headquarters
+                                    Teembinsys Systems</strong> was established in India since 2009. Teembinsys Systems in India has expanded its operations considerably with regional headquarters
                                     in Bangalore. Today, the company has established itself as an Embedded Software
                                     Development and Telecommunication Software Development Organization in the Indian Information Technology
                                             (IT) Industry.<asp:Image ID="Image1" runat="server" Height="278px" ImageUrl="~/tw1.JPG"
@@ -71,8 +71,8 @@
                         <tr>
                             <td colspan="3" rowspan="1" style="width: 518px; height: 381px">
                                 <div style="width: 462px; height: 355px">
-                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img  runat="server" alt="" src="proffetional company.jpg" style="width: 390px; height: 328px" />
-                                    &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                                    &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
                                 </div>
                             </td>
                         </tr>
@@ -122,7 +122,7 @@
                                     <br />
                                     <img alt="" src="group.jpg" style="width: 174px; height: 183px" /><br /><p style="text-align: justify">
                                         <span style="font-size: 11pt; font-family: Palatino Linotype; line-height: 20px; text-align: justify;">
-                                        TeembinSys Software Group is the provider of software products and
+                                        Teembinsys Software Group is the provider of software products and
                                     offers its customers comprehensive solutions to meet their e-business requirements.</span></p>
                                     </div>
                             </td>
@@ -144,7 +144,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px;">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px;">
-                    <asp:Label ID="Label1" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label1" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>

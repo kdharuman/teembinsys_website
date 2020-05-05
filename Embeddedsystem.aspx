@@ -54,7 +54,7 @@
                         </asp:BulletedList>
                         <br />
                         <asp:HyperLink ID="HyperLink1" runat="server" Font-Underline="False" ForeColor="#BF2A14"
-                            Height="20px" NavigateUrl="~/Products.aspx" Width="165px" ToolTip="Go Back To Product Side">Back To Product......</asp:HyperLink><br />
+                            Height="20px" NavigateUrl="~/Products.aspx" Width="165px" ToolTip="Go Back To Product">Back To Product......</asp:HyperLink><br />
                         <br />
                     </div>
                 </td>
@@ -96,7 +96,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label2" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label2" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>
@@ -108,4 +108,3 @@
         </table>
     </div>
 </asp:Content>
-

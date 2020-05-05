@@ -22,7 +22,7 @@
                         <br />
                         </span></span>
                         <span class="HTML_TXT"><span style="font-size: 11pt; font-family: Palatino Linotype">
-                            TeemBinSys Application Services offers the tools, technology
+                            Teembinsys Application Services offers the tools, technology
                             and resources to help your telecommunications organization become a leader in service
                             innovation, digital convergence and operational service assurance. Application Services
                             provides the following best-in-class solutions for optimizing your application portfolio
@@ -34,7 +34,7 @@
                             <asp:ListItem>Improving and streamlining processes to meet recognized quality standards</asp:ListItem>
                             <asp:ListItem>Employing testing services to improve application quality and lower costs</asp:ListItem>
                             <asp:ListItem>Rationalizing the application portfolio to support better integration with third-party systems</asp:ListItem>
-                            <asp:ListItem>Accessing TeembinSys's breadth of specialized skills for custom application development and systems integration</asp:ListItem>
+                            <asp:ListItem>Accessing Teembinsys breadth of specialized skills for custom application development and systems integration</asp:ListItem>
                             <asp:ListItem>Managing non-strategic applications to reduce cost while freeing key resources to focus on innovation</asp:ListItem>
                             <asp:ListItem>Adopting global delivery resources, best practices and business processes to minimize operational costs with high service levels</asp:ListItem>
                             <asp:ListItem>Re-assessing governance processes to focus investments in the right areas</asp:ListItem>
@@ -42,7 +42,7 @@
                         <br />
                         <br />
                         <asp:HyperLink ID="HyperLink1" runat="server" Font-Underline="False" ForeColor="#BF2A14"
-                            Height="33px" NavigateUrl="~/Products.aspx" Width="256px" ToolTip="Go Back To Product Side">Back To Product......</asp:HyperLink><br />
+                            Height="33px" NavigateUrl="~/Products.aspx" Width="256px" ToolTip="Go Back To Product">Back To Product......</asp:HyperLink><br />
                     </div>
                 </td>
             </tr>
@@ -83,7 +83,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label2" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label2" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>

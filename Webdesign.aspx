@@ -13,7 +13,7 @@
                             Width="330px" Font-Names="Arial" ForeColor="#BF2A14"></asp:Label><br />
                         <br />
                         <span style="font-size: 11pt"><span style="font-family: Palatino Linotype">
-                        <span class="HTML_TXT" style="text-align: justify">At TeemBinSys our goal is to develop
+                        <span class="HTML_TXT" style="text-align: justify">At Teembinsys our goal is to develop
                             technically complex yet elegant and intuitive web development solutions that cost
                             less to develop and maintain while at the same time leveraging the full potential
                             of the latest web technologies available thereby allowing you to maximize your business
@@ -84,7 +84,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label2" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label2" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>

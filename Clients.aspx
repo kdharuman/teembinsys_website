@@ -35,13 +35,12 @@
                                         &nbsp;<asp:Label ID="Label7" runat="server" Font-Bold="True" Font-Underline="False"
                                             Text="We believe in&#13;&#10;" Width="185px" ForeColor="#BF2A14"></asp:Label><br />
                                         <br />
-                                        <span style="font-size: 11pt; font-family: Palatino Linotype">(<strong>1</strong>) Encourage
-                                            Face-to-Face Dealings<br />
-                                            (<strong>2</strong>) Respond to Messages Promptly<br />
-                                            (<strong>3</strong>) Be Friendly and Approachable<br />
-                                            (<strong>4</strong>) Clearly-Defined Customer Services<br />
-                                            (<strong>5</strong>) Attention to Detail<br />
-                                            (<strong>6</strong>) Honor Our Promises<br />
+                                        <span style="font-size: 11pt; font-family: Palatino Linotype">Encourage Face-to-Face Dealings<br />
+                                            Respond to Messages Promptly<br />
+                                            Be Friendly and Approachable<br />
+                                            Clearly-Defined Customer Services<br />
+                                            Attention to Detail<br />
+                                            Honor Our Promises<br />
                                         </span>
                                     </div>
                                 </td>
@@ -61,9 +60,9 @@
                                         <table style="width: 279px; height: 238px">
                                             <tr>
                                                 <td dir="rtl" style="width: 111px; height: 47px;">
-                                                    <asp:Label ID="Label3" runat="server" Text="Client Id" Width="91px"></asp:Label></td>
+                                                    <asp:Label ID="Label3" runat="server" Text="Client ID" Width="91px"></asp:Label></td>
                                                 <td colspan="2" style="height: 47px">
-                                                    <asp:TextBox ID="TextBox1" runat="server" Width="138px" BackColor="Info" ToolTip="Enter Client Id"></asp:TextBox></td>
+                                                    <asp:TextBox ID="TextBox1" runat="server" Width="138px" BackColor="Info" ToolTip="Enter Client ID"></asp:TextBox></td>
                                             </tr>
                                             <tr>
                                                 <td dir="rtl" style="width: 111px; height: 41px;">
@@ -81,15 +80,15 @@
                                                 <td style="width: 111px">
                                                 </td>
                                                 <td colspan="2">
-                                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-                                                    <asp:Button ID="Button1" runat="server" Text="View Status" Width="96px" ToolTip="Click To View Status" OnClick="Button1_Click" />
+                                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                                    <asp:Button ID="Button1" runat="server" Text="Login" Width="96px" ToolTip="Click To Login" OnClick="Button1_Click" />
                                                     &nbsp; &nbsp;
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td colspan="3">
-                                                    <asp:Label ID="Label5" runat="server" Text="forgot password or username ?" Width="190px"></asp:Label>
-                                                    <asp:HyperLink ID="HyperLink1" runat="server" Width="77px" ToolTip="Click Here To Access Password" Font-Underline="True" ForeColor="#0000C0" NavigateUrl="~/Forgot_password.aspx" Target="_blank">Click Here</asp:HyperLink></td>
+                                                    <asp:Label ID="Label5" runat="server" Text="Forgot Client ID or Access Key ?" Width="190px"></asp:Label>
+                                                    <asp:HyperLink ID="HyperLink1" runat="server" Width="77px" ToolTip="Click Here To retrieve Access Key" Font-Underline="True" ForeColor="#0000C0" NavigateUrl="~/Forgot_password.aspx" Target="_blank">Click Here</asp:HyperLink></td>
                                             </tr>
                                         </table>
                                     </div>
@@ -128,7 +127,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label6" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label6" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>
@@ -140,4 +139,3 @@
         </table>
     </div>
 </asp:Content>
-

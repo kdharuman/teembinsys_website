@@ -15,14 +15,14 @@
                         <span style="font-size: 11pt"><span style="font-family: Palatino Linotype">
                         <span class="HTML_TXT" style="text-align: justify">Today's healthcare industry is under
                             pressure to reduce clinical and administrative costs and meet tighter compliance
-                            and security mandates. TeembinSys provides the technology, services, consulting
+                            and security mandates. Teembinsys provides the technology, services, consulting
                             and e-business experience you need to meet those demands and realize new opportunities
                             in the ever-changing healthcare environment.<br />
                         </span>
                         <br />
-                        A pioneer in healthcare information technology, TeembinSys remains at the forefront
+                        A pioneer in healthcare information technology, Teembinsys remains at the forefront
                         of improving how healthcare organizations deliver efficient, high quality care.
-                        TeembinSys, in combination with our global network of business partners and strategic
+                        Teembinsys, in combination with our global network of business partners and strategic
                         alliances, delivers powerful e-business technology and comprehensive services that
                         help your healthcare organization achieve success.<br />
                         <br />
@@ -36,12 +36,12 @@
                         most ERP systems is the use of a unified database to store data for the various
                         system modules<br />
                         <br />
-                        TeembinSys Healthcare Services encompasses the software and systems to computerize
+                        Teembinsys Healthcare Services encompasses the software and systems to computerize
                         all functions in a healthcare operation, including ERP,CRM and SCM<br />
                         </span></span>
                         <br />
                         <asp:HyperLink ID="HyperLink1" runat="server" Font-Underline="False" ForeColor="#BF2A14"
-                            Height="33px" NavigateUrl="~/Products.aspx" Width="256px" ToolTip="Go Back To Product Side">Back To Product......</asp:HyperLink><br />
+                            Height="33px" NavigateUrl="~/Products.aspx" Width="256px" ToolTip="Go Back To Product">Back To Product......</asp:HyperLink><br />
                     </div>
                 </td>
             </tr>
@@ -82,7 +82,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label2" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label2" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>

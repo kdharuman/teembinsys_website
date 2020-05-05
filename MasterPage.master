@@ -3,13 +3,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
-
 <head runat="server">
     <title>Untitled Page</title>
-    <meta name="description" content="Telecommunication and Embedded Information Systems" />
-    <meta name="keywords" content="Home, About, Client, Products, Services, Career, Contact, Telecommunication, Embedded, Banking, Insurance, Web Designing, Health Care" />
-    <meta name="description" content="Telecommunication and Embedded Information System, India, Karnataka, Bangalore, Arekere Main road, Arekere, Bannerghatta Road" />
+    <meta name="description" content="TeemBinSys Systems Pvt Ltd" />
+    <meta name="keywords" content="HOME, ABOUT US, CLIENT, PRODUCTS, SERVICES, CAREER, CONTACT US, TELECOMUNICATION, EMBEDDED, BANKING, INSURANCE, WEB DESIGNING, HEALTH CARE" />
+    <meta name="description" content="TeemBinSys Systems Pvt Ltd, India, Karnataka, Bangalore, Arekere Main road, Arekere, Bannerghatta Road" />
     
+
+
 <script language="JavaScript1.1">
 <!--
 
@@ -21,25 +22,24 @@ Over 200+ free JavaScript here!
 
 var slideimages=new Array()
 var slidelinks=new Array()
-
-function slideshowimages()      {
-    for (i=0;i<slideshowimages.arguments.length;i++)        {
-        slideimages[i]=new Image()
-        slideimages[i].src=slideshowimages.arguments[i]
-    }
+function slideshowimages(){
+for (i=0;i<slideshowimages.arguments.length;i++){
+slideimages[i]=new Image()
+slideimages[i].src=slideshowimages.arguments[i]
+}
 }
 
-function slideshowlinks()       {
-        for (i=0;i<slideshowlinks.arguments.length;i++)
-            slidelinks[i]=slideshowlinks.arguments[i]
+function slideshowlinks(){
+for (i=0;i<slideshowlinks.arguments.length;i++)
+slidelinks[i]=slideshowlinks.arguments[i]
 }
 
-function gotoshow()     {
-        if (!window.winslide||winslide.closed)
-            winslide=window.open(slidelinks[whichlink])
-        else
-            winslide.location=slidelinks[whichlink]
-        winslide.focus()
+function gotoshow(){
+if (!window.winslide||winslide.closed)
+winslide=window.open(slidelinks[whichlink])
+else
+winslide.location=slidelinks[whichlink]
+winslide.focus()
 }
 
 //-->
@@ -49,7 +49,8 @@ function gotoshow()     {
 <body alink="black">
     <form id="form1" runat="server">
     <div>
-        <table width="940" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="white" style="height: 967px">
+        
+        <table width="1100" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="white" style="height: 967px">
             <tr>
                 <td style="width: 877px; height: 691px;" colspan="3" rowspan="3">
                     <table style="width: 935px">
@@ -121,21 +122,24 @@ slideit()
 
                             &nbsp;</div>
                         &nbsp;&nbsp;
-                        <div style="width: 932px; height: 40px; background-position: 50% 50%;">
-                            <asp:Menu ID="Menu1" runat="server" Height="59px" Orientation="Horizontal" Width="929px" Font-Bold="False" Font-Names="Arial" ForeColor="White" ScrollUpImageUrl="~/menu_back.JPG">
-                                <StaticMenuItemStyle ForeColor="Black" HorizontalPadding="26px" VerticalPadding="12px" Font-Bold="True" />
+                        <div style="width: 1100px; height: 40px; background-position: 50% 50%;">
+                            <asp:Menu ID="Menu1" runat="server" Height="59px" Orientation="Horizontal" Width="1150px" Font-Bold="False" Font-Names="Arial" ForeColor="White" ScrollUpImageUrl="~/menu_back.JPG">
+                                <StaticMenuItemStyle ForeColor="Black" HorizontalPadding="15px" VerticalPadding="12px" Font-Bold="True" />
                                 <DynamicHoverStyle BackColor="#C04000" ForeColor="White" />
                                 <StaticHoverStyle ForeColor="White" BackColor="#AF0005" />
                                 <StaticSelectedStyle BackColor="#AF0005" ForeColor="White"/>
                                 <DynamicSelectedStyle BackColor="#AF0005" ForeColor="White" />
                                 <Items>
-                                    <asp:MenuItem Text="HOME" Value="HOME" NavigateUrl="~/home.aspx" ToolTip="HOME"></asp:MenuItem>
-                                    <asp:MenuItem Text="ABOUT US" Value="ABOUT US" NavigateUrl="~/About_Us.aspx" ToolTip="ABOUT US"></asp:MenuItem>
-                                    <asp:MenuItem Text="SERVICES" Value="SERVICES" NavigateUrl="~/Services.aspx" ToolTip="SERVICES"></asp:MenuItem>
-                                    <asp:MenuItem Text="CLIENTS" Value="CLIENTS" NavigateUrl="~/Clients.aspx" ToolTip="CLIENTS"></asp:MenuItem>
-                                    <asp:MenuItem Text="PRODUCTS" Value="PRODUCTS" NavigateUrl="~/Products.aspx" ToolTip="PRODUCTS"></asp:MenuItem>
-                                    <asp:MenuItem Text="CAREER" Value="CAREER" NavigateUrl="~/Career.aspx" ToolTip="CAREER"></asp:MenuItem>
-                                    <asp:MenuItem Text="CONTACT_US" Value="CONTACT  US" NavigateUrl="~/Contact.aspx" ToolTip="CONTACT  US"></asp:MenuItem>
+                                    <asp:MenuItem Text="Home" Value="HOME" NavigateUrl="~/home.aspx" ToolTip="HOME"></asp:MenuItem>
+                                    <asp:MenuItem Text="About Us" Value="ABOUT US" NavigateUrl="~/About_Us.aspx" ToolTip="ABOUT US"></asp:MenuItem>
+                                    <asp:MenuItem Text="Services" Value="SERVICES" NavigateUrl="~/Services.aspx" ToolTip="SERVICES"></asp:MenuItem>
+                                    <asp:MenuItem Text="Clients" Value="CLIENTS" NavigateUrl="~/Clients.aspx" ToolTip="CLIENTS"></asp:MenuItem>
+                                    <asp:MenuItem Text="Products" Value="PRODUCTS" NavigateUrl="~/Products.aspx" ToolTip="PRODUCTS"></asp:MenuItem>
+                                    <asp:MenuItem Text="Careers" Value="CAREER" NavigateUrl="~/Career.aspx" ToolTip="CAREER"></asp:MenuItem>
+                                    <asp:MenuItem Text="Training" Value="TRAINING" NavigateUrl="~/Training.aspx" ToolTip="TRAINING"></asp:MenuItem>
+                                    <asp:MenuItem Text="Forum" Value="FORUM" NavigateUrl="~/Forum.aspx" ToolTip="FORUM"></asp:MenuItem>
+                                    <asp:MenuItem Text="Reviews" Value="REVIEWS" NavigateUrl="~/Reviews.aspx" ToolTip="REVIEWS"></asp:MenuItem>
+                                    <asp:MenuItem Text="Contact Us" Value="CONTACT US" NavigateUrl="~/Contact.aspx" ToolTip="CONTACT  US"></asp:MenuItem>
                                 </Items>
                                 
                                 

@@ -13,12 +13,12 @@
                             Width="173px" Font-Names="Arial" ForeColor="#BF2A14"></asp:Label><br />
                         <br />
                         <span style="font-size: 11pt; font-family: Palatino Linotype">
-                        TeemBinSys professionals participate in subject matter expert (SME)
+                        Teembinsys professionals participate in subject matter expert (SME)
                         communities and are skilled across different technology products from IBM, Sun Microsystems,
-                        Microsoft and Hewlett Packard. Employees in TeemBinSys work closely with different
+                        Microsoft and Hewlett Packard. Employees in Teembinsys work closely with different
                         customers/clients on all aspects of Software Development, Testing, Implementation,
                         Maintenance and Customer interaction and Communication relationships. Around 12
-                        Full-time TeemBinSys professionals, distinguished by their functional and technical
+                        Full-time Teembinsys professionals, distinguished by their functional and technical
                         expertise combined with their hands-on experience, ensures that our clients receive
                         the most effective and professional service</span></div>
                     <br />
@@ -42,7 +42,7 @@
                         <asp:Label ID="Label3" runat="server" Font-Bold="True" Text="Domain Focus" Width="196px" Font-Names="Arial" ForeColor="#BF2A14"></asp:Label><br />
                         <br />
                         <span style="font-size: 11pt; font-family: Palatino Linotype">
-                        In order to meet the individual needs of clients, TeemBinSys presents customers
+                        In order to meet the individual needs of clients, Teembinsys presents customers
                         with the best technologies and practices to support their e-business infrastructure
                         requirements and a wide range of qualifications. Our domain specialization includes Telecom, Webdesign, Embedded, Banking, Insurance
                             and Health Care.</span></div>
@@ -52,8 +52,7 @@
             <tr>
                 <td colspan="3" style="height: 263px">
                     <div style="width: 912px; height: 243px">
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="domain focus.jpg" style="width: 794px;
-                            height: 239px" />
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                         &nbsp; &nbsp; &nbsp; &nbsp;
                     </div>
                 </td>
@@ -85,7 +84,7 @@
                 <td rowspan="3" style="width: 271px; height: 21px">
                 </td>
                 <td rowspan="3" style="width: 571px; height: 21px">
-                    <asp:Label ID="Label4" runat="server" Text="(c) 2009 TeemBinSys Systems Pvt Ltd All rights reserved."
+                    <asp:Label ID="Label4" runat="server" Text="Copyright (c) 2020 Telecommunication and Embedded Information Systems."
                         Width="539px"></asp:Label></td>
                 <td rowspan="3" style="height: 21px">
                 </td>
