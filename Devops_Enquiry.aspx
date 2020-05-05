@@ -50,6 +50,12 @@
                                                 <asp:TextBox ID="TextBox3" runat="server" BackColor="Info" TextMode="MultiLine" Width="223px" ToolTip="Enter Your Full Adress"></asp:TextBox></td>
                                         </tr>
                                         <tr>
+					    <td dir="rtl" style="width: 158px">
+					        <asp:Label ID="Labe20" runat="server" Text="Course Enquired for" Width="83px"></asp:Label></td>
+					    <td colspan="2">
+					        <asp:TextBox ID="TextBox8" runat="server" BackColor="Info" TextMode="MultiLine" Width="223px" ToolTip="Enter Your Full Adress"></asp:TextBox></td>
+                                        </tr>
+                                        <tr>
                                             <td dir="rtl" style="width: 158px; height: 17px;">
                                                 <asp:Label ID="Label5" runat="server" Text="Contact No" Width="113px"></asp:Label></td>
                                             <td colspan="2" style="height: 17px">
