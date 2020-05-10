@@ -1,123 +1,37 @@
-<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Career.aspx.cs" Inherits="Default7" Title="Career With TeemBinSys Systems" %>
+<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Devops_Enquiry.aspx.cs" Inherits="Default7" Title="Devops Enquiry Form" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="apple-touch-icon" href="/logo192.png"/><link rel="manifest" href="/manifest.json"/><title>React App</title><link href="/static/css/main.5f361e03.chunk.css" rel="stylesheet">
+    <br/> <br/>
     <div style="width: 921px; height: 1096px">
-        <table style="width: 922px; height: 1089px">
-            <tr>
-                <td colspan="3" style="height: 1013px; width: 932px;">
+                <table style="width: 922px; height: 1089px">
+                    <tr>
+                        <td colspan="3" style="height: 1013px; width: 932px;">
                     
-                    <div style="font-size: 12pt; width: 853px; font-family: Times New Roman; height: 269px">
-                        &nbsp;<asp:Label ID="Label12" runat="server" Font-Bold="True" Font-Names="Arial"
-                            Font-Size="Large" ForeColor="#BF2A14" Text="Devops Training Enquiry" Width="500px"></asp:Label>
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-                        
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                        &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-                        <br />
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size: 11pt;
-                            font-family: Palatino Linotype">
-                                        Send your enquiry to :&nbsp; <a href="mailto:enquiry@teembinsys.com"><span style="font-size: 11pt;
+                            <div style="font-size: 12pt; width: 853px; font-family: Times New Roman; height: 269px">
+                                &nbsp;<asp:Label ID="Label12" runat="server" Font-Bold="True" Font-Names="Arial"
+                                    Font-Size="Large" ForeColor="#BF2A14" Text="Devops Enquiry Form" Width="202px"></asp:Label>
+                                    <br /><br/><br/>
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size: 11pt;
+                                        font-family: Palatino Linotype">
+                                        Submit your Resumes at:&nbsp; <a href="mailto:enquiry@teembinsys.com"><span style="font-size: 11pt;
                                                 font-family: Palatino Linotype">enquiry@teembinsys.com</span></a><span style="font-size: 11pt;
                                                     font-family: Palatino Linotype">&nbsp;
-                                        or Submit your Enquiry Here<br />
+                                        or Submit your enquiry below<br />
                                                 </span></span>
-                    </div>
-                        <table style="width: 920px; height: 436px">
-                            <tr>
-                                <td rowspan="4" style="width: 70px">
-                                </td>
-                                <td rowspan="4" style="width: 522px">
-                                    <asp:Label ID="Label13" runat="server" Text="Label" Visible="False" Width="510px"></asp:Label>
-                                    <table style="width: 523px; height: 362px; background-color: #FFFAFA; table-layout: fixed;">
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px">
-                                                <asp:Label ID="Label2" runat="server" Text="First Name" Width="103px"></asp:Label></td>
-                                            <td colspan="2" dir="ltr">
-                                                <asp:TextBox ID="TextBox1" runat="server" BackColor="Info" Width="223px" ToolTip="Enter Your First Name"></asp:TextBox></td>
-                                        </tr>
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px">
-                                                <asp:Label ID="Label3" runat="server" Text="Last Name" Width="102px"></asp:Label></td>
-                                            <td colspan="2">
-                                                <asp:TextBox ID="TextBox2" runat="server" BackColor="Info" Width="223px" ToolTip="Enter Your Last Name"></asp:TextBox></td>
-                                        </tr>
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px">
-                                                <asp:Label ID="Label4" runat="server" Text="Address" Width="83px"></asp:Label></td>
-                                            <td colspan="2">
-                                                <asp:TextBox ID="TextBox3" runat="server" BackColor="Info" TextMode="MultiLine" Width="223px" ToolTip="Enter Your Full Adress"></asp:TextBox></td>
-                                        </tr>
-                                        <tr>
-					    <td dir="rtl" style="width: 158px">
-					        <asp:Label ID="Labe20" runat="server" Text="Course Enquired for" Width="83px"></asp:Label></td>
-					    <td colspan="2">
-					        <asp:TextBox ID="TextBox8" runat="server" BackColor="Info" TextMode="MultiLine" Width="223px" ToolTip="Enter Your Full Adress"></asp:TextBox></td>
-                                        </tr>
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px; height: 17px;">
-                                                <asp:Label ID="Label5" runat="server" Text="Contact No" Width="113px"></asp:Label></td>
-                                            <td colspan="2" style="height: 17px">
-                                                <asp:TextBox ID="TextBox4" runat="server" BackColor="Info" Width="223px" ToolTip="Enter Your Contact Number"></asp:TextBox></td>
-                                        </tr>
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px">
-                                                <asp:Label ID="Label6" runat="server" Text="Email address" Width="100px"></asp:Label></td>
-                                            <td colspan="2">
-                                                <asp:TextBox ID="TextBox5" runat="server" BackColor="Info" Width="223px" ToolTip="Enter Your Valid e-Mail Id"></asp:TextBox></td>
-                                        </tr>
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px">
-                                                <asp:Label ID="Label7" runat="server" Text="Highest Qualification" Width="139px"></asp:Label></td>
-                                            <td colspan="2">
-                                                <asp:TextBox ID="TextBox6" runat="server" BackColor="Info" Width="223px" ToolTip="Enter Your Highest Qualification"></asp:TextBox></td>
-                                        </tr>
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px">
-                                                <asp:Label ID="Label8" runat="server" Text="Percentage" Width="136px"></asp:Label></td>
-                                            <td colspan="2">
-                                                <asp:TextBox ID="TextBox7" runat="server" BackColor="Info" Width="223px" ToolTip="Enter Your Percentage"></asp:TextBox>
-                                                <asp:Label ID="Label11" runat="server" Width="116px"></asp:Label></td>
-                                        </tr>
-                                        <tr>
-                                            <td dir="rtl" style="width: 158px; height: 30px;">
-                                                <asp:Label ID="Label9" runat="server" Text="Attach Resume" Width="128px"></asp:Label></td>
-                                            <td colspan="2" style="height: 30px">
-                                                <input id="File1" runat="server" style="width: 329px; background-color: infobackground" type="file"/>
-                                                <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ErrorMessage="Please select a document file." ControlToValidate="File1" ValidationExpression="^.*\.([d|D][o|O][c|C])$"
-                                                    Style="z-index: 100; left: 602px; position: absolute; top: 1604px" Width="324px"></asp:RegularExpressionValidator>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td style="width: 158px; height: 30px">
-                                            </td>
-                                            <td style="width: 16px; height: 30px">
-                                                <asp:Button ID="Button2" runat="server" Text="Reset" Width="79px" ToolTip="Reset Again" OnClick="Button2_Click" />
-                                                <asp:Button ID="Button1" runat="server" Text="Submit" Width="79px" ToolTip="Submit The Form" OnClick="Button1_Click" />
-                                                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
-                                            </td>
-                                            <td style="height: 30px; width: 177px;">
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                                <td rowspan="1" style="height: 40px">
-                                    <div style="width: 281px; height: 248px">
-                                        <img alt="" src="glove.jpg" style="width: 277px; height: 223px" /></div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td rowspan="3" style="height: 17px">
-                                </td>
-                            </tr>
-                            <tr>
-                            </tr>
-                            <tr>
-                            </tr>
-                        </table>
-                    </td>
-            </tr>
+                            </div>
+                    
+                            <div id="root"></div>
+                                <noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script>!function(e){function t(t){for(var n,i,l=t[0],f=t[1],a=t[2],c=0,s=[];c<l.length;c++)i=l[c],Object.prototype.hasOwnProperty.call(o,i)&&o[i]&&s.push(o[i][0]),o[i]=0;for(n in f)Object.prototype.hasOwnProperty.call(f,n)&&(e[n]=f[n]);for(p&&p(t);s.length;)s.shift()();return u.push.apply(u,a||[]),r()}function r(){for(var e,t=0;t<u.length;t++){for(var r=u[t],n=!0,l=1;l<r.length;l++){var f=r[l];0!==o[f]&&(n=!1)}n&&(u.splice(t--,1),e=i(i.s=r[0]))}return e}var n={},o={1:0},u=[];function i(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,i),r.l=!0,r.exports}i.m=e,i.c=n,i.d=function(e,t,r){i.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},i.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.t=function(e,t){if(1&t&&(e=i(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(i.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var n in e)i.d(r,n,function(t){return e[t]}.bind(null,n));return r},i.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return i.d(t,"a",t),t},i.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},i.p="/";var l=this.webpackJsonpt_website=this.webpackJsonpt_website||[],f=l.push.bind(l);l.push=t,l=l.slice();for(var a=0;a<l.length;a++)t(l[a]);var p=f;r()}([])</script><script src="/static/js/2.ccfd451f.chunk.js"></script><script src="/static/js/main.2c9f5dbc.chunk.js"></script>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td rowspan="3" style="height: 17px">
+                    
+                        </td>
+                    </tr>
+                </table>
             <tr>
                 <td colspan="3" style="height: 157px; width: 932px;">
                     <div style="width: 926px; height: 146px">
@@ -153,16 +67,14 @@
                             <td rowspan="3" style="height: 20px">
                             </td>
                         </tr>
-                        <tr>
-                        </tr>
-                        <tr>
-                        </tr>
                     </table>
                     </div>
                 </td>
             </tr>
-        </table>
-        <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="Enter Valid mail id" ControlToValidate="Textbox5" ValidationExpression="\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
-            Style="z-index: 100; left: 618px; position: absolute; top: 1481px" Width="135px"></asp:RegularExpressionValidator>
+        
+
+
+
     </div>
 </asp:Content>
+
